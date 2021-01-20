@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<group>
+	<sobel>1</sobel>
+	<sobelGray>0</sobelGray>
+</group>
